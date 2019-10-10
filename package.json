@@ -1,7 +1,7 @@
 {
-    "name": "fistudio",
+    "name": "garden-care",
     "version": "1.0.0",
-    "description": "",
+    "description": "Site estático para demonstrar o uso de Next.js (SSR em React.js)",
     "main": "index.js",
     "scripts": {
         "dev": "next",
